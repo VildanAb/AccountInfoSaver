@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Account Info Saver</string>
+    <string name="data_complete_string">Заполнение данных</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="password_generator_text">Здесь вы можете сгенерировать надежный пароль для своего нового аккаунта! Не забудьте сохранить данные об аккаунте в нашем приложении.</string>
+
+    <array name="accountTypes">
+        <item>Google</item>
+        <item>Steam</item>
+        <item>VK</item>
+        <item>Instagram</item>
+        <item>Telegram</item>
+        <item>Epic Games Store</item>
+        <item>Yandex</item>
+        <item>Facebook</item>
+        <item>PornHub</item>
+        <item>Другое</item>
+    </array>
+
+    <string name="manage_passcode">Manage Pin</string>
+    <string name="enter_passcode">Enter Pin</string>
+    <string name="enter_old_passcode">Enter old Pin</string>
+    <string name="reenter_passcode">Re-enter Pin</string>
+    <string name="change_passcode">Change Pin</string>
+    <string name="setup_passcode">Setup pin</string>
+    <string name="passcode_wrong">Wrong pin, please try again.</string>
+    <string name="enable_passcode">Enable Pin</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F09D6</color>
+    <color name="colorPrimaryDark">#0F09D6</color>
+    <color name="colorAccent">#0E0E0E</color>
+    <color name="colorButton">#63CC23</color>
+    <color name="colorText">#1B61AA</color>
+    <color name="colorRVBackground">#AFB0B1</color>
+    <color name="colorSteam">#B8B9C6</color>
+    <color name="colorGoogle">#FFFFFF</color>
+    <color name="colorVK">#FFFFFF</color>
+
+    <color name="windowBackground">#373636</color>
+
+</resources>
